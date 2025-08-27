@@ -1,0 +1,4 @@
+Protein,UniProt_ID,Structure_Source,Mutations_to_test
+INS,P01308,AlphaFold,L13P,R55C
+INSR,P06213,PDB:3LOH,D707A,V713M
+AKT1,P31749,AlphaFold,E17K,K179M
